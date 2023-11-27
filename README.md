@@ -1,7 +1,7 @@
 # Project-IoT-based-Smart-Walking-Stick-for-Elderly-Or-Disabled-Peoples  
 *Build2gether Inclusive Innovation Challenge*  
   
-<img src="/Images/Build2gether.jpg" height="250" >
+<img src="Images/Build2gether.jpg" height="250" >
   
 
 Walking Stick/Caine with IoT connectivity. Obstacle Detection, Fall Detection, Emergency SOS Button/Panic button  
@@ -14,7 +14,7 @@ Walking Stick/Caine with IoT connectivity. Obstacle Detection, Fall Detection, E
 - Blues Swan MCU  
 </br>
 
-<img src="/Images/blues.jpeg" height="250" >  
+<img src="Images/blues.jpeg" height="250" >  
 
 #### 💻 Software  
 - Arduino IDE  
