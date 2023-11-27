@@ -14,7 +14,7 @@ Walking Stick/Caine with IoT connectivity. Obstacle Detection, Fall Detection, E
 - Blues Swan MCU  
 </br>
 
-<img src="/Images/blues.JPEG" height="250" >  
+<img src="/Images/blues.JPG" height="250" >  
 
 #### 💻 Software  
 - Arduino IDE  
