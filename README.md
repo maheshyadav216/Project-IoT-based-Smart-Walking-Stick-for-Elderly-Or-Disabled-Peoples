@@ -29,7 +29,7 @@ Walking Stick/Caine with IoT connectivity. Obstacle Detection, Fall Detection, E
 
 📕 **YouTube Video Link**  
 
-▶️ Project-CapSense-based-Smart-Assistive-Remote-for-Disabled-Peoples - 🔗 https://www.youtube.com/ 
+▶️ IoT based Smart Walking Stick for Elderly/Disabled Peoples - 🔗 https://www.youtube.com/ 
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
