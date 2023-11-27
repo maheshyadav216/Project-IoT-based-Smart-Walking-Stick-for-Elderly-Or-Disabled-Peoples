@@ -6,6 +6,7 @@
 
 Walking Stick/Caine with IoT connectivity. Obstacle Detection, Fall Detection, Emergency SOS Button/Panic button  
 
+*(Project is still under development)*
 
 #### 🛠 Hardware  
 - Blues Wireless Feather Starter Kit for Swan  
