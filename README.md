@@ -1,7 +1,7 @@
 # Project-IoT-based-Smart-Walking-Stick-for-Elderly-Or-Disabled-Peoples  
 *Build2gether Inclusive Innovation Challenge*  
   
-<img src="/Images/Build2gether.JPG" height="250" >
+<img src="/Images/Build2gether.JPEG" height="250" >
   
 
 Walking Stick/Caine with IoT connectivity. Obstacle Detection, Fall Detection, Emergency SOS Button/Panic button  
